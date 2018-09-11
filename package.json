@@ -1,0 +1,23 @@
+{
+  "name": "poo-examples",
+  "version": "1.0.0",
+  "description": "POO",
+  "main": "index.js",
+  "scripts": {
+    "server": "ts-node ./basico/clases.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmanuelz/POO-examples.git"
+  },
+  "dependencies": {
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carmanuelz/POO-examples/issues"
+  },
+  "homepage": "https://github.com/carmanuelz/POO-examples#readme"
+}
